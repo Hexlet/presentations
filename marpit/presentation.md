@@ -19,13 +19,15 @@ Some text
 
 # Slide 3
 
-![Описание изображения](https://github.com/Hexlet/hexlet-handbook/blob/master/hexlet_logo.png)
+![width:250px height:300px](hexlet.jpeg)
+
+---
 
 # Slide 4
 
-* one
-* two
-* three
+- one
+- two
+- three
 
 ---
 
