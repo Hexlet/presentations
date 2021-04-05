@@ -1,4 +1,4 @@
-setup:	
+setup:
 	npm install @marp-team/marpit --save
 
 presentation:
