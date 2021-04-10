@@ -21,3 +21,4 @@ make presentation
 ## Инструменты
 
 * https://marpit.marp.app/markdown
+* https://marpit.marp.app/directives

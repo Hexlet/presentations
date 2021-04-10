@@ -6,14 +6,17 @@ class:
 paginate: true
 ---
 
-# Hello World!
-## Hexlet
+# Имя урока
+## Хекслет: Название курса
 
 ---
 
 # Slide 2
 
-Some text
+```javascript
+const name = 'hexlet';
+console.log(name);
+```
 
 ---
 
@@ -36,4 +39,3 @@ Some text
 1. one
 2. two
 3. three
-
