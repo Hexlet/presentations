@@ -34,8 +34,11 @@ console.log(name);
 
 ---
 
-# Slide 5
+# Таблицы
 
-1. one
-2. two
-3. three
+https://docs.github.com/en/github/writing-on-github/organizing-information-with-tables
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
