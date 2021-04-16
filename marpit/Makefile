@@ -1,5 +1,5 @@
 setup:
-	npm install @marp-team/marpit
+	npm ci
 
 presentation:
 	npx @marp-team/marp-cli --html -w presentation.md
