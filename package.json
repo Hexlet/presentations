@@ -1,0 +1,26 @@
+{
+  "name": "hexlet-presentations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hexlet Presentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexlet/presentations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hexlet/presentations/issues"
+  },
+  "homepage": "https://github.com/Hexlet/presentations#readme",
+  "dependencies": {
+    "slidev-theme-hexlet": "^0.0.7"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.12.3"
+  }
+}
