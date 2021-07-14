@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Hexlet/presentations#readme",
   "dependencies": {
-    "slidev-theme-hexlet": "^0.0.7"
+    "@slidev/cli": "^0.22.1",
+    "slidev-theme-hexlet": "^0.0.11"
   },
   "devDependencies": {
     "playwright-chromium": "^1.12.3"
